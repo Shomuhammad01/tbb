@@ -99,9 +99,9 @@ body {
 }
 
 .intro__title {
-    color: #323232;
     font-size: 50px;
     line-height: 61px;
+    color: red;
 }
 
 .intro__app {
